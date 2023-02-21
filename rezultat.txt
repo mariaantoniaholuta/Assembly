@@ -1,0 +1,7 @@
+Introduceti o operatie cu multimi: 
+1. Verificare
+2. Apartenenta
+3. Diferenta
+4. Produs cartezian
+3
+ Multime: 1 2 3  Multime: 2 3 4 Multimea diferenta este: 1 
